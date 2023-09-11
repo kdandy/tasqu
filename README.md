@@ -1,3 +1,6 @@
+![image](https://github.com/kdandy/tasqu/assets/50922642/f93bb6aa-a9d2-4dcb-8a1f-6560bc1603e8)
+
+
 # Nama dan Fitur
 
 Aplikasi ini bernama TASQU => Manajemen Barang Sederhana di Lokal Tanpa Database.
